@@ -1,0 +1,1 @@
+from models.segment_anything.build_sam import sam_model_registry
